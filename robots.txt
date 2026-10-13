@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# After you buy a domain, add a Sitemap line pointing to your live HTTPS domain.
